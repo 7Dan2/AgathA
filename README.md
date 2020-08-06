@@ -1,8 +1,11 @@
-#AgathA
+# AgathA
 
-##AgathA or @gathA is a simple REACT learning project with the aim to provide simplicity in creating access-form.
+## AgathA or @gathA is a simple REACT learning project with the aim to provide simplicity in creating access-form.
 
-###About REACT
+## Also have a look at Agth@'s sister [SophI.A](https://7dan2.github.io/SophIA/) available on Github pages
+
+
+### About REACT
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

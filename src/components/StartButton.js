@@ -5,7 +5,10 @@ const StartButton = () =>
 {
     return ( 
     <div>
-        <button>Welcome to AgathA</button>
+        <p><label for myInput>Entrez votre nom</label>
+        <input id="myInput"></input>
+        </p>
+        <button>Welcome to AgathA </button>
     </div> 
     )
 }
